@@ -1,7 +1,7 @@
 #include "SkyBox.h"
 
 SkyBox::SkyBox() :
-    draw(false)
+    draw(true)
 {
 
 }
